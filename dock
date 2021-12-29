@@ -1,0 +1,24 @@
+generally we can start the docker while facing issue
+
+
+because we could check the status
+
+
+ sudo service docker status
+
+ sudo service docker start
+
+
+clear the issue!
+
+ docker container create with image -- docekr run --name myubuntu -it ubuntu
+
+ docker start container -- docker start myubuntu[container name]
+
+ docker stop/pause conatiner -- docker stop myubuntu
+ 
+ docker container  stats  -- docker stats myubuntu
+
+ docker container  inside -- docker attach myubuntu
+
+ 
