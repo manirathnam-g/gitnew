@@ -7,7 +7,7 @@ because we could check the status
  sudo service docker status
 
  sudo service docker start
-
+ sudo service docker stop
 
 clear the issue!
 
