@@ -1,2 +1,14 @@
 something cannot be changed 
 you should be change for hardwork 
+
+
+when we are facing any issue while push/pull 
+we should use git pull --rebase origin master/main
+now you can push/pull the code 
+
+
+
+
+see how many branches in repository
+use, git checkout -a
+it will show the all branches in your repository 
